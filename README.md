@@ -1,8 +1,3 @@
-# Sysdig Technical Assessments
-
-- [Sales Engineer](./SETechAssessment)
-- [Solutions Architect](./SATechAssessment)
-
 # Principles
 
 Cloud Native infrastructure encompasses many, many things these days. We do not expect anyone to be an expert in everything--that is impossible! Rather, we look for key traits:
@@ -16,3 +11,8 @@ Cloud Native infrastructure encompasses many, many things these days. We do not 
 **Mentors** - In order to be successful we have to mentor each other. Again, this space is vast, no one person can know it all. We expect everyone to contribute their knowledge back to their peers. Some people will be more knowledgeable in some areas, that's not only great, it's expected. You need to be willing to coach your peers to raise everybody up.
 
 **Cultural Contribution** - We have a lot of fun, everyone supports each other and lifts each other up, and we work hard to help everyone be as successful as they can be. Many of us come from different backgrounds and we're stronger for that. We don't tolerate negative behaviour and we encourage collaboration and team ethic. This isn't just about technical knowledge, but also professional experiences.
+
+# Sysdig Technical Assessments
+
+- [Sales Engineer](./SETechAssessment)
+- [Solutions Architect](./SATechAssessment)
