@@ -14,5 +14,5 @@ Cloud Native infrastructure encompasses many, many things these days. We do not 
 
 # Sysdig Technical Assessments
 
-- [Sales Engineer](./SETechAssessment)
-- [Solutions Architect](./SATechAssessment)
+- [Sales Engineer](https://github.com/sysdiglabs/SETechAssessment)
+- [Strategic Partners Solutions Architect](./SATechAssessment.md)
