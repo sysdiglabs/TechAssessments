@@ -1,4 +1,4 @@
-# SETechAssessment
+# Strategic Partners Solutions Architect TechAssessment (AWS)
 
 We Strongly recommend to read and understand [Sysdig assessments general principles](https://github.com/sysdiglabs/TechAssessments) before continue.
 
