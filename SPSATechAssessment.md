@@ -8,7 +8,7 @@ To get a handle on who you are, what your drive is, and how we can best support 
 
 At a high level, we'd like you to attempt the following
 
-1. Create an EKS cluster and secure it with Sysdig usint a GitOps approach with Terraform or CloudFormation. Lots of free 'credit' options out there.
+1. Create an EKS cluster and secure it with Sysdig using a GitOps approach with Terraform or CloudFormation. Lots of free 'credit' options out there.
     - (Note: A node with 4cpu and 8 gigs of ram should be fine to run the Sysdig agent on)
     - If you're building in the cloud, and you're new to the cloud, learn about security and billing alerts!
     - Turn off or scale down your cluster when you're not using it, but don't destroy it!
