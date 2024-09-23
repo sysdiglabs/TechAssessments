@@ -1,6 +1,6 @@
 # Solutions Architect Technical Assessment (Cloud & Ecosystem) 2024
 
-We strongly recommend reviewing the [Sysdig Assessment Principles](https://github.com/sysdiglabs/TechAssessments) before proceeding.
+We recommend reviewing the [Sysdig Assessment Principles](https://github.com/sysdiglabs/TechAssessments) before starting.
 
 ## The Project
 
