@@ -4,11 +4,15 @@ We recommend reviewing the [Sysdig Assessment Principles](https://github.com/sys
 
 ## The Project
 
-We’d like to understand your skills and how we can best support your success. **Note:** It’s OK to use Google or AI tools during this assessment. Just be honest with yourself and communicate if you need more time.
+We’d like to understand your skills and how we can best support your success. 
+
+**If you don’t have time to complete all the steps, it’s sufficient to describe how you would implement them and address the various challenges.**
+
+**Note:** It’s OK to use Google or AI tools during this assessment. Just be honest with yourself and communicate if you need more time.
 
 ### Prerequisites
 
-* AWS Account (Please use free tiers or free credits options out there).
+* AWS Account (Please use free tiers or free credits options out there). If you can't use a real cloud account, you can skip the AWS part and work with a vanilla Kubernetes cluster locally.
 * Sysdig Account (You should have received a trial account attached to this assessment). 
 
 ### Task Overview
@@ -26,16 +30,16 @@ We’d like to understand your skills and how we can best support your success. 
    - Use Helm to install the [voting app](https://github.com/dockersamples/example-voting-app) into your Kubernetes cluster.
 
 4. **Explore Sysdig Features:**
-   - Enable runtime policies and generate any secure events (Example: "Terminal Shell in a container")
+   - Enable some runtime policies and generate any events (Example: "Terminal Shell in a container")
    - Review activity audit (Why is this important?).
    - Review posture management, what is failing and what is met.
    - Investigate runtime vulnerability management: Identify top vulnerabilities and explain why.
-   - Can you explain at high level how events are captured at different levels? (containers, and Cloudtrail).
-   - What are captures? How they are taken? What is inside?
+   - Can you provide a high level overview on how events are captured at different levels? (containers, and Cloudtrail).
+   - What are captures? What is inside?
 
-5. **Automations for DevSecOps:**
-   - Explain how to send runtime findings from a policy to a third-party tool.
-   - Describe how to automate image scanning in GitHub Actions.
+5. **Automations:**
+   - Explain how to send runtime findings from the "Sysdig Runtime Threat Detection" policy to a third-party tool.
+   - If you had to secure your GitHub Actions pipeline, describe how to automate the image scanning in your GitHub pipeline.
    - Outline an automation that pulls vulnerability data from an image every 24 hours.
 
 6. **Cluster Review:**
