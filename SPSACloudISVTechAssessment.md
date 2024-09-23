@@ -8,7 +8,7 @@ We’d like to understand your skills and how we can best support your success.
 
 **If you don’t have time to complete all the steps, it’s sufficient to describe how you would implement them and address the various challenges.**
 
-**Note:** It’s OK to use Google or AI tools during this assessment. Just be honest with yourself and communicate if you need more time.
+**Note:** It is OK to Google or AI during the process, but keep in mind that many details may be overlooked if you don’t take some time to check the workflows manually.
 
 ### Prerequisites
 
