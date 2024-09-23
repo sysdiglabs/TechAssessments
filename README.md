@@ -16,3 +16,4 @@ Cloud Native infrastructure encompasses many, many things these days. We do not 
 
 - [Sales Engineer](https://github.com/sysdiglabs/SETechAssessment)
 - [Strategic Partners Solutions Architect (Cloud)](./SPSATechAssessment.md)
+- [Strategic Partners Solutions Architect (Cloud & Ecosystem)](./SPSACloudISVTechAssessment.md)

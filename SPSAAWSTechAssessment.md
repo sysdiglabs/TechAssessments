@@ -1,4 +1,4 @@
-# Strategic Partners Solutions Architect TechAssessment (AWS)
+# Strategic Partners Solutions Architect TechAssessment (AWS) 2022
 
 We Strongly recommend reading and understand the [Sysdig assessments general principles](https://github.com/sysdiglabs/TechAssessments) before continuing.
 
