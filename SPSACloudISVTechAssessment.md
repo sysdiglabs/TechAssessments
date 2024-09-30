@@ -24,7 +24,7 @@ We’d like to understand your skills and how we can best support your success.
    - Turn off or scale down your cluster when you're not using it, but don't destroy it!
 
 2. **Cloud Security:**
-   - Secure the cluster with an agent-based method, and the cloud account using an agent-less method. To onboard Sysdig, you can use the *Getting Started* guide in the Sysdig UI and refer to Sysdig's official documentation.
+   - Since in this scenario your company is running clusters in the cloud, you should connect Sysdig to both your cluster and your cloud environment to find out what's happening at any level. Onboard the cluster using an agent-based method, and the cloud account using an agent-less method. You can follow the *Getting Started* guide in the Sysdig UI and refer to Sysdig's official documentation.
 
 3. **Deploy App(s):**
    - Deploy some test applications in the cluster. Some ideas are: [Voting App](https://github.com/dockersamples/example-voting-app) and/or [Juice Shop](https://github.com/juice-shop/juice-shop).  
