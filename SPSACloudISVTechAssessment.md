@@ -26,8 +26,8 @@ We’d like to understand your skills and how we can best support your success.
 2. **Cloud Security:**
    - Secure the cluster with an agent-based method, and the cloud account using an agent-less method. To onboard Sysdig, you can use the *Getting Started* guide in the Sysdig UI and refer to Sysdig's official documentation.
 
-3. **Deploy Voting App:**
-   - Use Helm to install the [voting app](https://github.com/dockersamples/example-voting-app) into your Kubernetes cluster.
+3. **Deploy App(s):**
+   - Deploy some test applications in the cluster. Some ideas are: [Voting App](https://github.com/dockersamples/example-voting-app) and/or [Juice Shop](https://github.com/juice-shop/juice-shop).  
 
 4. **Explore Sysdig Features:**
    - Enable some runtime policies and generate any events (Example: "Terminal Shell in a container")
