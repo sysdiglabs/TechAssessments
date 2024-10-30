@@ -32,7 +32,7 @@ We’d like to understand your skills and how we can best support your success.
 4. **Explore Sysdig Features:**
    - Enable some runtime policies and generate any events (Example: "Terminal Shell in a container")
    - Review activity audit (Why is this important?).
-   - Review posture management, what is failing and what is met.
+   - Review posture management (inventory, CSPM), what is failing and what is met (Please note that it can take up to 12h to get CSPM results).
    - Investigate runtime vulnerability management: Identify top vulnerabilities and explain why.
    - Can you provide a high level overview on how events are captured at different levels? (containers, and Cloudtrail).
    - What are captures? What is inside?
